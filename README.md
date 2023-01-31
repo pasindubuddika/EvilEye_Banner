@@ -23,3 +23,6 @@
 ➢bash GaiyaBenner.sh
 
 ## POWERD BY GAIYA &D GEEK
+### github https://github.com/pasindubuddika
+
+### youtube https://youtube.com/@gaiyadgeek8266
